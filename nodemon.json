@@ -1,0 +1,8 @@
+{
+  "env": {
+    "PORT": 3000,
+    "MONGO_USER": "denis-rukavitsa",
+    "MONGO_PW": "yetgTXUzFG3sLviN",
+    "JWT_SECRET": "yetgTXUzFG3sLviN"
+  }
+}
